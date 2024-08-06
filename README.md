@@ -1,5 +1,5 @@
 # bash_Script
-Linux BASH script to automate the build of a Django app in a Docker Container
+Linux BASH script to automate the build of a basic Django app in a Docker Container
 
 # Environment
     Oracle VirtualBox (VM) with Ubuntu 24.04 LTS Desktop.
