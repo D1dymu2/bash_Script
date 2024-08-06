@@ -1,7 +1,7 @@
 ##  BASH script on Ubuntu 24.04 LTS terminal to automate build of Django app in Docker Container
 ##  move to home folder
 cd ~
-##  remove folder begining with ymmot
+##  remove folder beginning with ymmot
 rm -r ymmot*
 alias py=python3
 ## create the python virtual environment and working directories
