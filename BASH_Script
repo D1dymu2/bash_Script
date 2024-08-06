@@ -19,7 +19,6 @@ django-admin startproject hello_django .
 py -m manage migrate
 echo "from django.contrib.auth.models import User; User.objects.create_superuser('tommy', 'tommy@frm.dm', 'admin')" | python manage.py shell
 ##  access the Django Admin UI successfully
-
 py -m manage runserver &
 x-www-browser 127.0.0.1:8000/admin/
 
