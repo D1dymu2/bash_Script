@@ -115,7 +115,7 @@ END
 
 
 ##  rewrite app/hello_django/settings.py
-##  add modules to import
+##  add the modules to import
 ##  add Env Vars references
 ##  add Postgres db
 ##  add Django logging
